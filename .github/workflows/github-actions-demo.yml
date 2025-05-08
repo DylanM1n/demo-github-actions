@@ -11,7 +11,7 @@ jobs:
           node-version: '20'
       - run: npm install
       - run: npm run build
-      - run: npm run i astro 
+      - run: npm run astro 
       - run: npm run preview
       
       
